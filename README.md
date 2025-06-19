@@ -2,7 +2,7 @@
 
 **Infinite Lordle** is a Wordle-style guessing game with no daily limit — built in under 6 hours for portfolio purposes.
 
-Made by [Ne](https://github.com/unloopedmido), it features a clean UI, responsive virtual keyboard, and infinite replayability. Built with Next.js App Router, Tailwind CSS (via shadcn), and React.
+Made by [Me](https://github.com/unloopedmido), it features a clean UI, responsive virtual keyboard, and infinite replayability. Built with Next.js App Router, Tailwind CSS (via shadcn), and React.
 
 ### Features
 
@@ -17,7 +17,7 @@ Made by [Ne](https://github.com/unloopedmido), it features a clean UI, responsiv
 - Next.js (App Router)
 - Tailwind CSS
 - React Icons
-- `shadcn` for UI
+- [shadcn](https://ui.shadcn.com/) for UI
 
 ### Why?
 
